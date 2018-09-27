@@ -30,7 +30,8 @@ a {
     padding-bottom: 30px;
     -webkit-transition: left .3s ease-in-out;
     transition: left .3s ease-in-out;
-    background: #f0f0f0;
+    background: #fff;
+    color: #5e6d82;
 }
 
 .content {
@@ -170,4 +171,35 @@ a {
 
 .v-note-wrapper .v-note-panel {
     min-height: 500px;
+}
+
+
+
+/*jiade*/
+.tt-item{
+    font-size: 20px;
+    margin: 30px 0 10px;
+}
+.demo-block {
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    transition: .2s;
+}
+.demo-box {
+    margin-bottom: 24px;
+}
+.bg-blue {
+    background-color: #409eff;
+}
+.bg-success {
+    background-color: #67c23a;
+}
+.bg-warning {
+    background-color: #e6a23c;
+}
+.bg-danger {
+    background-color: #f56c6c;
+}
+.bg-info {
+    background-color: #909399;
 }
